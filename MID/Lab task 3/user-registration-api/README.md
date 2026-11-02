@@ -31,3 +31,7 @@
 - accountType: "student" or "teacher"
 - address: optional, min 10 characters if provided
 - Unknown properties are rejected (whitelist + forbidNonWhitelisted)
+
+
+## Screenshots
+See the `screenshots/` folder (5 Postman tests).
